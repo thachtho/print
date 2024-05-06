@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\FAMILY\\Desktop\\code\\mayin\\printer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\FAMILY\\Desktop\\code\\mayin\\HarwareHelperLib\\HardwareHelperLib.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FAMILY\\Desktop\\code\\mayin\\HarwareHelperLib\\HardwareHelperLib.csproj",
+        "projectName": "HardwareHelperLib",
+        "projectPath": "C:\\Users\\FAMILY\\Desktop\\code\\mayin\\HarwareHelperLib\\HardwareHelperLib.csproj",
+        "frameworks": {
+          "net35": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net35": {}
+      }
+    },
+    "C:\\Users\\FAMILY\\Desktop\\code\\mayin\\printer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FAMILY\\Desktop\\code\\mayin\\printer.csproj",
+        "projectName": "printer",
+        "projectPath": "C:\\Users\\FAMILY\\Desktop\\code\\mayin\\printer.csproj",
+        "packagesPath": "C:\\Users\\FAMILY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FAMILY\\Desktop\\code\\mayin\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\FAMILY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\FAMILY\\Desktop\\code\\mayin\\HarwareHelperLib\\HardwareHelperLib.csproj": {
+                "projectPath": "C:\\Users\\FAMILY\\Desktop\\code\\mayin\\HarwareHelperLib\\HardwareHelperLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "DevExpress.Document.Processor": {
+              "target": "Package",
+              "version": "[21.2.5, )"
+            },
+            "DevExpress.Pdf.Drawing": {
+              "target": "Package",
+              "version": "[21.2.5, )"
+            },
+            "Microsoft.AspNetCore.SignalR": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "MimeMapping": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Usb.Events": {
+              "target": "Package",
+              "version": "[11.1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

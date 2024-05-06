@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bgQbYmasNFu/CJ+0raf6qrthd3ZnZ6FJTG9yAlUi8Zw=",
+  "Source": "printer",
+  "BasePath": "_content/printer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,17 @@
+E:\Users\van\Desktop\HH_Lib_Test\HarwareHelperLib\bin\Release\HardwareHelperLib.dll
+E:\Users\van\Desktop\HH_Lib_Test\HarwareHelperLib\bin\Release\HardwareHelperLib.pdb
+E:\Users\van\Desktop\HH_Lib_Test\HarwareHelperLib\obj\Release\HardwareHelperLib.dll
+E:\Users\van\Desktop\HH_Lib_Test\HarwareHelperLib\obj\Release\HardwareHelperLib.pdb
+C:\Users\VanIT\Desktop\HH_Lib_Test\HarwareHelperLib\bin\Release\HardwareHelperLib.dll
+C:\Users\VanIT\Desktop\HH_Lib_Test\HarwareHelperLib\obj\Release\HardwareHelperLib.dll
+C:\Users\VanIT\Desktop\HH_Lib_Test\HarwareHelperLib\obj\Release\HardwareHelperLib.csprojResolveAssemblyReference.cache
+C:\Users\van\Desktop\HH_Lib_Test\HarwareHelperLib\bin\Release\HardwareHelperLib.dll
+C:\Users\van\Desktop\HH_Lib_Test\HarwareHelperLib\obj\Release\HardwareHelperLib.csprojResolveAssemblyReference.cache
+C:\Users\van\Desktop\HH_Lib_Test\HarwareHelperLib\obj\Release\HardwareHelperLib.dll
+C:\Users\Admin\Desktop\HH_Lib_Test\HarwareHelperLib\bin\Release\HardwareHelperLib.dll
+C:\Users\Admin\Desktop\HH_Lib_Test\HarwareHelperLib\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\HH_Lib_Test\HarwareHelperLib\obj\Release\HardwareHelperLib.dll
+D:\code\HH_Lib_Test\HarwareHelperLib\bin\Release\HardwareHelperLib.dll
+D:\code\HH_Lib_Test\HarwareHelperLib\obj\Release\HardwareHelperLib.csproj.AssemblyReference.cache
+D:\code\HH_Lib_Test\HarwareHelperLib\obj\Release\HardwareHelperLib.csproj.CoreCompileInputs.cache
+D:\code\HH_Lib_Test\HarwareHelperLib\obj\Release\HardwareHelperLib.dll
